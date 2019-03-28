@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [27/Mar/2019:18:01:47 +0800] "GET /outLogin HTTP/1.1" 200 809 http-bio-8080-exec-1 1491
+0:0:0:0:0:0:0:1 - - [27/Mar/2019:18:01:51 +0800] "GET /checkUser?username=%E5%BC%A0%E4%B8%89&password=123456 HTTP/1.1" 200 615 http-bio-8080-exec-2 2200
